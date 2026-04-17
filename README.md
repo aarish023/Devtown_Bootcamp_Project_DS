@@ -1,2 +1,3 @@
 # Devtown_Bootcamp_Project_DS
-This is a 5 days bootcamp Project for machine learning
+Hi I made this project during the 5 Days Free Bootcamp,conducted by Devtown.The instructor during the session was **Ms Jiya Jain(Data Analyst)**.I got to learn a lot during these 5 days and it was an amazing learning Journey with Devtown.
+
